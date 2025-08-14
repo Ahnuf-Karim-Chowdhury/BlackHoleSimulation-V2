@@ -6,6 +6,10 @@ A visually stunning, physically accurate black hole simulator built with **Pytho
 
 ---
 
+<img src="https://github.com/Ahnuf-Karim-Chowdhury/BlackHoleSimulation-V2/blob/main/V2.png?raw=true" alt="Black Hole Simulation V2" style="width:100%; height:auto;" />
+
+---
+
 ## 🚀 Live Demo
 
 👉 [Launch the simulation](https://blackholesimulation-v2.streamlit.app/)  
@@ -49,5 +53,6 @@ streamlit run main.py
 **Ahnuf Karim Chowdhury**  
 *Full-stack developer & CS student*  
 Passionate about **AI**, **scientific visualization**, and **cinematic realism**.
+
 
 
