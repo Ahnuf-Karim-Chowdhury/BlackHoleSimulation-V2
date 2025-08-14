@@ -43,3 +43,11 @@ cd BlackHoleSimulation-V2
 pip install -r requirements.txt
 streamlit run main.py
 ```
+
+## ✨ Author
+
+**Ahnuf Karim Chowdhury**  
+*Full-stack developer & CS student*  
+Passionate about **AI**, **scientific visualization**, and **cinematic realism**.
+
+
